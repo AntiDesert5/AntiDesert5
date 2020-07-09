@@ -1,6 +1,9 @@
 # Hola Soy Axel Valenzuela Juárez
 ## Que genial que andas por aquí. 👋
 ## 📫 No dudes en contactarme en:
+* [Mi Pagina Web Personal](http://www.axelvalenzuela.com) - Mi increible pagina web personal, encuentra mi portafolio, CV y contactame.
+* [🧑🏻 Facebook](https://www.facebook.com/axel.valenzuelajuarez) - Mi Facebook.
+* [💻 Linkedin](https://www.linkedin.com/in/axel-valenzuela-ju%C3%A1rez-aa036a103) - Sigueme en Linkedin.
 
 <!--
 **AntiDesert5/AntiDesert5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
