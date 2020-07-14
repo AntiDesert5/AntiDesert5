@@ -1,26 +1,14 @@
-# Hola Soy Axel Valenzuela Juárez.
-## It's great that you're here. 👋
-
 ## 🔭 Computer Engineer [![HitCount](http://hits.dwyl.com/AntiDesert5/AntiDesert5.svg)](http://hits.dwyl.com/AntiDesert5/AntiDesert5)
 
 ` 😄 Axel Valenzuela` |  `🌱 México, México` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/axel-valenzuela-ju%C3%A1rez-aa036a103`
 
 
-
-### Hi there 👋 
-
-
-
-A seasoned and creative frontend developer with 8+ years of experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
-
-
- 
+I am a Microsoft Student Partner beta level. I handle Microsoft Azure and its resources, I like all the topics of AI especially the machine learning, I am a computer engineer, I have knowledge in C, C + +, Java, C #, Python, Matlab, Android Studio Unity among others.
 
 ## Key skills
 
-💬 `Html, CSS, JavaScript, React, Redux, Shopify, Wordpress, Laravel, Photoshop`.
+💬 `C#, Unity,PHP, Android Studio, Microsoft Azure, Python, Java , C, C++, Html, CSS, JavaScript, React, Wordpress`.
 
-📖 ` Node / Express`
 
 <p>
   <img src="https://img.shields.io/badge/Html-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
