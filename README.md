@@ -36,7 +36,7 @@ I am a Microsoft Student Partner beta level. I handle Microsoft Azure and its re
 
 <a href="https://www.facebook.com/axel.valenzuelajuarez" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-<a href="https://axelvalenzuela.com" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>"
+<a href="https://axelvalenzuela.com" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
 
