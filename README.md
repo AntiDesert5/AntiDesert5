@@ -1,9 +1,9 @@
-# Hola Soy Axel Valenzuela Juárez
-## Que genial que andas por aquí. 👋
+# Hola Soy Axel Valenzuela Juárez.
+## It's great that you're here. 👋
 
-## 🔭 Front End Developer [![HitCount](http://hits.dwyl.com/AntiDesert5/AntiDesert5.svg)](http://hits.dwyl.com/AntiDesert5/AntiDesert5)
+## 🔭 Computer Engineer [![HitCount](http://hits.dwyl.com/AntiDesert5/AntiDesert5.svg)](http://hits.dwyl.com/AntiDesert5/AntiDesert5)
 
-` 😄 Muhammad Rafi` |  `🌱 Melbourne, Australia` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/axel-valenzuela-ju%C3%A1rez-aa036a103`
+` 😄 Axel Valenzuela` |  `🌱 México, México` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/axel-valenzuela-ju%C3%A1rez-aa036a103`
 
 
 
