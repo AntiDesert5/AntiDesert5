@@ -42,7 +42,7 @@ I am a Microsoft Student Partner beta level. I handle Microsoft Azure and its re
 
 
 ### I am really glad to see you here !
-Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=AntiDesert5.visitor-badge)](https://github.com/AntiDesert5) since i added this profile <br>
+
 The green dots on my [**GitHub** profile](https://github.com/AntiDesert5=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊  
